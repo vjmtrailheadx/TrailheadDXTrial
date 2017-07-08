@@ -1,0 +1,10 @@
+// OS X System files
+.DS_Store
+
+// Sublime files
+*.sublime-workspace
+*.sublime-settings
+*.sublime-project
+debug/
+
+.sfdx
